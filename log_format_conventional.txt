@@ -1,0 +1,4 @@
+       	log_format analytics '$remote_addr - $upstream_cache_status [$time_local]  '
+                    '"$request" $status $body_bytes_sent $query_string'
+                    '"$http_referer" "$http_user_agent"'
+                    '"$geoip_country_name" "$geoip_country_code"';
