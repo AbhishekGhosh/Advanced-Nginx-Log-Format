@@ -1,0 +1,1 @@
+'[$time_iso8601] » [$upstream_cache_status] » [$remote_addr]' '[$request $request_time $request_length] » [$status] » [$body_bytes_sent] »' '[$http_referer] » [$http_user_agent]' '[$geoip_country_name » $geoip_country_code » $geoip_region » $geoip_city » $geoip_latitude » $geoip_longitude » $geoip_org]' '$query_string';
